@@ -26,7 +26,7 @@ Agile 소프트웨어 개발 선언
 
 현대적인 개발요소
 
-![d](./20191125Devops/modern.png)
+![d](./20191125-Devops/modern.png)
 
 
 경쟁에서 이기기위한 요소 
