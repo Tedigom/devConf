@@ -51,6 +51,7 @@ ReadinessProbe -> 처음 가동할때 ready상태가 되는지를 check
 언제 오픈을 할것인지를 정하는 역할
 
 
+세미나 관련 상세 자료는 아래 페이지에서 
 [GitHub - jupilhwang/meetups](https://github.com/jupilhwang/meetups)
 
 
