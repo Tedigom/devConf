@@ -1,6 +1,6 @@
 # AWS cloud career
 테크니컬 트레이너 - 바쁜 고객을 대신해 공부하는 직업
--> 정규 교육과정 강의, 교육과정 제작
+-> 정규 교육과정 강의, 교육과정 제작  
 
 Cloud support engineer
 Solutions Architect
