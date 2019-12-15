@@ -1,4 +1,4 @@
-Pivotal meetup - 스프링 클라우드를 사용한 마이크로 서비스
+# Pivotal meetup - 스프링 클라우드를 사용한 마이크로 서비스
 
 Spring cloud setup :  1,2,3,4 shell file 순서대로 적용 
 Pivotal web services : run.pivotal.io - cloud native platform 
@@ -17,6 +17,7 @@ Reactive foundation에서 첫번째 프로젝트 조만간 1.0v 출시 ( R Socke
 R2DBC - mysql, postgesql, H2 등 지원
 
 Spring cloud gateway 관련하여서는  [Spring Cloud Gateway](https://cloud.spring.io/spring-cloud-gateway/reference/html/) 찹조
+
 
 
 
@@ -50,6 +51,7 @@ ReadinessProbe -> 처음 가동할때 ready상태가 되는지를 check
 언제 오픈을 할것인지를 정하는 역할
 
 
+세미나 관련 상세 자료는 아래 페이지에서 확인할 수 있음.  
 [GitHub - jupilhwang/meetups](https://github.com/jupilhwang/meetups)
 
 
